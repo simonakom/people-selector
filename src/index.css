@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.person {
+	padding: 1rem;
+	border-radius: 20px;
+	border: 2px solid rgb(204, 188, 188);
+	width: fit-content;
+}
+.person-list {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 2rem;
+	max-width: 1200px;
+	margin: 0 auto;
+}
