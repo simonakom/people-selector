@@ -11,7 +11,7 @@
 
 This is a simple React responsive application - Color Picker, created using React, Tailwind, Css, localStorage
 
-🔹 Preview - <a href="https://simonakom.github.io/people-selector/build/index.html" style="font-size:small;">here</a>
+🔹 Preview - <a href="https://simonakom.github.io/people-selector/dist/index.html" style="font-size:small;">here</a>
 
 ## Getting Started
 
