@@ -1,5 +1,5 @@
 
-# <span style="margin-right: 10px;"><img src="./src/assets/search.png" alt="people" style="height: 2em; vertical-align: middle;"></span> Color Picker
+# <span style="margin-right: 10px;"><img src="./src/assets/search.png" alt="people" style="height: 2em; vertical-align: middle;"></span> People Selector
 
 <div align="center">
   <img src="https://img.shields.io/badge/📖%20license-%20MIT-a964d0.svg" alt="48 items"/> 
