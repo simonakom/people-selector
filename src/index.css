@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+	background-color: #e8e4e4;
+	margin: 0 30px;
+}
 
 .person {
 	padding: 1rem;
@@ -15,4 +19,17 @@
 	gap: 2rem;
 	max-width: 1200px;
 	margin: 0 auto;
+	margin-top: 50px;
+}
+
+@media screen and (max-width: 768px) {
+    .person-list {
+        grid-template-columns: repeat(2, 1fr); /* Two columns on smaller screens */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .person-list {
+        grid-template-columns: 1fr; /* One column on even smaller screens */
+    }
 }
