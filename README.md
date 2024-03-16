@@ -9,7 +9,7 @@
 
 ## Welcome!
 
-This is a simple React responsive application - Color Picker, created using React, Tailwind, Css, localStorage
+This is a simple React responsive application - People selector, created using React vite, Tailwind, Css, localStorage to practice filtering (useMemo hook)
 
 🔹 Preview - <a href="https://simonakom.github.io/people-selector/dist/index.html" style="font-size:small;">here</a>
 
